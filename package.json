@@ -10,7 +10,7 @@
     "start": "node dist"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.x"
   },
   "dependencies": {
     "@scenify/renderer": "^1.1.1",
